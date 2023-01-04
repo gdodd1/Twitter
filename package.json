@@ -1,0 +1,23 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "Twitter Clone",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdodd1/Twitter.git"
+  },
+  "author": "Garrett Dodd and Zach Handel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdodd1/Twitter/issues"
+  },
+  "homepage": "https://github.com/gdodd1/Twitter#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
